@@ -1,4 +1,6 @@
-#git ½Ì³Ì
+#git study
+
+just for test
 
 
 - feature-A
